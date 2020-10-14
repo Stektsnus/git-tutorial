@@ -1,10 +1,17 @@
 Look a change!
 
-c#
-javascript
-java
-c++
-c
-css
-html
-luna
+Programming languages:
+  c#
+  javascript
+  java
+  c++
+  c
+  css
+  html
+  luna
+
+Foreign languages:
+  Italian
+  French
+  Spanish
+  Latin
