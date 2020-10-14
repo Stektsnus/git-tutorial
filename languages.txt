@@ -1,10 +1,11 @@
 Look a change!
 
-c#
-javascript
-java
-c++
-c
-css
-html
-luna
+c# - weak
+python - strong
+javascript - fair
+java - weak
+c++ - weak
+c - weak
+css - fair
+html - fair
+luna - weak
